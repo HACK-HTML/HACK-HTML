@@ -1,6 +1,6 @@
-### 🖐Hello
+### 🖐Hei,there
 
-大家好，我是KeWang。是石家庄铁道大学，软件工程专业19级的一名学生。
+大家好，我是KeWang,是石家庄铁道大学，软件工程专业19级的一名学生。
 
 <hr>
 
@@ -114,8 +114,9 @@
   ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HACK-HTML&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
   <br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACK-HTML&layout=compact)](https://github.com/HACK-HTML/github-readme-stats)
-   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACK-HTML)](https://github.com/HACK-HTML/github-readme-stats)
+  <br><br>
+  
 </div>
 
 <hr>
