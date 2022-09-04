@@ -7,8 +7,9 @@
 <div align="center">
   
   <div>
-    <a href="https://dawsu.github.io/">
-      <img height="140px" src="http://mms0.baidu.com/it/u=390470901,753711757&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=500&h=500">
+    <a href="https://github.com/HACK-HTML">
+    
+      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Klarna</title><path d="M4.592 2v20H0V2h4.592zm11.46 0c0 4.194-1.583 8.105-4.415 11.068l-.278.283L17.702 22h-5.668l-6.893-9.4 1.779-1.332c2.858-2.14 4.535-5.378 4.637-8.924L11.562 2h4.49zM21.5 17a2.5 2.5 0 110 5 2.5 2.5 0 010-5z"/></svg>
     </a>
     <br><br>
     个人简历 
@@ -17,7 +18,7 @@
   <br><br>
   
   <div>
-    <a href="https://www.cnblogs.com/da48/">
+    <a href="https://www.cnblogs.com/blog-wangke/">
       <img height="40px" src="https://www.cnblogs.com/images/logo.svg?v=R9M0WmLAIPVydmdzE2keuvnjl-bPR7_35oHqtiBzGsM">
     </a>
     <br><br>
@@ -67,27 +68,30 @@
 
 ### 🎭社会活动情况
 
-暂未进行专业相关的实习工作。社交能力较强，喜爱与人交往。
+大三第一学期假期在石家庄电信分公司实习
 
 <hr>
 
 ### 🚛专业实践情况
 
-参加过中国软件杯，一届大学生服务外包杯等大学生软件竞赛。
+1. 中国软件杯
+2. 大学生服务外包杯等大学生软件竞赛。
+3. 火焰杯软件测试全国优秀奖
+4. 东软杯程序设计大赛二等奖
+5. 蓝桥杯算法竞赛省级二等奖
 
-从比赛中收获颇丰，喜欢去学习新知识，喜欢解决困难。
+从比赛中收获颇丰，喜欢数学算法。
 
-暂无获奖记录，继续努力。
 
 <hr>
 
 ### 💻专业技能
 
-掌握前后端开发技术(HTML5+CSS3+JavaScript/ajax+Servlet+Spring...)
+掌握前后端开发技术(HTML5+CSS3+JavaScript/ajax+Servlet+Spring)
 
 掌握数据库操作(mysql、SqlServer...)
 
-熟悉深度学习框架(tensorflow)
+熟悉深度学习框架(tensorflow，TEXTCNN)
 
 熟悉大数据采集、处理、分析、可视化展示等工程(python爬虫、hive、Kettle、SQL、echarts...)
 
@@ -98,11 +102,11 @@
 我的博客
 
 
-<a href="https://www.cnblogs.com/da48/p/14910433.html">阿里云服务器利用oss降低宽带与云盘费用</a><br>
+<a href="https://www.cnblogs.com/blog-wangke/p/14861627.html">了解双十一背后的框架</a><br>
 
 <a href="android通过url下载文件">android通过url下载文件</a><br>
 
-等等
+
 
 ### 🎈github基本情况
 
