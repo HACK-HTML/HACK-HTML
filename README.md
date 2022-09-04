@@ -8,8 +8,7 @@
   
   <div>
     <a href="https://github.com/HACK-HTML">
-    
-      <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Klarna</title><path d="M4.592 2v20H0V2h4.592zm11.46 0c0 4.194-1.583 8.105-4.415 11.068l-.278.283L17.702 22h-5.668l-6.893-9.4 1.779-1.332c2.858-2.14 4.535-5.378 4.637-8.924L11.562 2h4.49zM21.5 17a2.5 2.5 0 110 5 2.5 2.5 0 010-5z"/></svg>
+           <img height="140px" src="http://mms0.baidu.com/it/u=390470901,753711757&fm=253&app=138&f=JPEG&fmt=auto&q=75?w=500&h=500">
     </a>
     <br><br>
     个人简历 
@@ -112,9 +111,9 @@
 
 <div align="center">
   
-  ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawsu&show_icons=true&theme=tokyonight)
+  ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACK-HTML&show_icons=true&theme=tokyonight)
   <br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawsu&layout=compact)](https://github.com/dawsu/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACK-HTML&layout=compact)](https://github.com/HACK-HTML/github-readme-stats)
    
 </div>
 
