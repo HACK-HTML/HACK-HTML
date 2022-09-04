@@ -111,7 +111,8 @@
 
 <div align="center">
   
-  ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACK-HTML&show_icons=true&theme=tokyonight)
+  ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HACK-HTML&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
   <br><br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HACK-HTML&layout=compact)](https://github.com/HACK-HTML/github-readme-stats)
    
