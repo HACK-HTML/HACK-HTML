@@ -114,7 +114,8 @@
   ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HACK-HTML&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
   <br><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HACK-HTML&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
   <br><br>
   
 </div>
